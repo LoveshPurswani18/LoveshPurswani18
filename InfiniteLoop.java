@@ -1,7 +1,7 @@
 class InfiniteLoop{
     public static void main(String[] args){
-        for(int i = 1; i>0; i++){
-            System.out.println(i);
+        for(int a = 1; a>0; a++){
+            System.out.println(a);
         }
     }
 }
